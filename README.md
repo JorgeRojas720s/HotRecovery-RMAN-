@@ -3,7 +3,7 @@
 </p>
 
 
-<h1 align="center">🔃 HotRecovery-RMAN 📀</h1>
+<h1 align="center">🔃 Hot Recovery-RMAN 🥵</h1>
 <p align="center">Guía visual paso a paso para configurar y ejecutar respaldos RMAN en Oracle 19c dentro de Docker</p>
 
 ---
